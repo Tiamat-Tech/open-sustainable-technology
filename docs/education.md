@@ -1,8 +1,9 @@
 <!--lint ignore awesome-toc awesome-contributing awesome-badge -->
 # Open Educational Resources on Sustainable Technology
 
-__Looking for recources to get started in Open Sustainable Technology? Here you can find dedicated educational resources as well as best practices for your ideas.__
+__Looking for resources to get started in Open Sustainable Technology? Here you can find dedicated educational resources as well as best practices for your ideas.__
 
+## Tutorials and Courses
 - [Earth and Environmental Data Science Book](https://github.com/earth-env-data-science/earth-env-data-science-book) - An Introduction to Earth and Environmental Data Science.
 - [Free Earth Data Science Courses & Textbooks](https://github.com/earthlab/earthlab.github.io) - A site dedicated to tutorials, course and other learning materials and resources developed by the Earth Lab team.
 - [ESM-lectures](https://github.com/nworbmot/esm-lectures) - Lecture slides for KIT Energy System Modelling course.
@@ -25,3 +26,9 @@ __Looking for recources to get started in Open Sustainable Technology? Here you 
 - [Fundamentals of Remote Sensing](https://appliedsciences.nasa.gov/join-mission/training/english/fundamentals-remote-sensing) - Participants will have a basic understanding of NASA satellites, sensors, data, tools, portals and applications to environmental monitoring and management.
 - [Building DC Energy Systems](https://learn.libre.solar/) - Hosts an Open Educational Resource (OER) for Building DC Energy Systems.
 - [The General Circulation of the Atmosphere](https://nordicesmhub.github.io/GEO4962/) - The course gives a broad overview about the general circulation of the atmosphere, including the tropospheric and stratospheric circulations. 
+- [The Climate Laboratory](https://github.com/brian-rose/ClimateLaboratoryBook) - A hands-on approach to climate physics and climate modeling.
+- [Objective Analysis in Atmospheric Sciences](https://github.com/eabarnes1010/ats655-coursematerial) - The course provides an overview of the methods used to interpret data sets in the atmospheric and oceanic sciences.
+- [Python for Atmosphere and Ocean Scientists](https://github.com/carpentrieslab/python-aos-lesson) - Contains the Data Carpentry lesson materials for a single day workshop on using python in the atmosphere and ocean sciences.
+- [Photovoltaics Education Website](https://www.pveducation.org/) - A detailed deep dive to get started with photovolatic technology.
+- [Spatial data science for sustainable development](https://sustainability-gis.readthedocs.io/en/latest/) - Introduces geographical and computational analysis approaches to study sustainability related questions.  
+- [Climate Risks Academy 2021](https://github.com/danielhuppmann/climate-risks-academy-2021) - Contains solutions for the advanced assignment of the Modelling Lab of the Climate Risks Academy 2021

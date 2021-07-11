@@ -1,7 +1,7 @@
 <!--lint ignore awesome-toc awesome-contributing awesome-badge -->
 # Sustainable Business Development
 
-__Projects and organizations for sustainable business development. Note that the listed entries do not necessarily follow entirely open principles themselves.__
+__Financial resources, incubators, hackathons and accelerators for sustainable business development.__
 
 ## Incubators and Hackathons
 * [Greentown Labs](https://greentownlabs.com/) - Solving the climate crisis through entrepreneurship and collaboration.
@@ -12,6 +12,8 @@ __Projects and organizations for sustainable business development. Note that the
 * [treehacks](https://www.treehacks.com/) - Hacking for the future: addressing deeply impactful problems and building creative, unique solutions.
 * [Energy and Climate Hack](https://opendata.ch/projects/energy-climate-hack_2021/) - In the lead-up to the global climate conference COP26 in Glasgow, a two-day hackathon will bring together young talents from Switzerland and the UK.
 * [Hoboken Climate Hackathon](https://www.hobokenclimate.com/) - The focus of the hack is to build solutions to help solve climate related problems in the city of Hoboken.
+* [Call for Code](https://developer.ibm.com/callforcode/) - Through the Call for Code initiative, you have the opportunity to build and contribute to sustainable, open source technology projects that address social and humanitarian issues.
+* [Open Climate Collabathon](https://www.collabathon.openclimate.earth/) - An open event mobilizing a global network of Universities, civic tech groups, startups and youth to collaborate and crowd-develop digital solutions for climate accounting and transparency aligned with the Paris Agreement.
 
 ## Accelerators
 
@@ -53,8 +55,7 @@ __Projects and organizations for sustainable business development. Note that the
 * [GreenTec Capital Partners](https://greentec-capital.com/) - Invests in African start-ups and SMEs with a focus on combining social and environmental impact with financial success.
 * [Startup Wise Guys](https://startupwiseguys.com/sustainability/) - Every business and individual has a direct or indirect impact on climate change, sustainable living, and many other pressing global challenges.
 * [The Climate Pledge Fund](https://sustainability.aboutamazon.com/about/climate-pledge-fund) - Supports the development of sustainable and decarbonizing technologies and services that will enable Amazon and other companies to meet the goals set by The Climate Pledge.
-
-
+* [The Greenhouse](https://www.imperial.ac.uk/grantham/innovation/what-we-do/the-greenhouse/) - At its core, The Greenhouse is a 12-month innovation programme for climate positive technology startups that offers early-stage ("pre-seed") entrepreneurs access to business coaching with experienced professionals, a range of masterclasses, free workspace at our new headquarters in central London (to be announced in December), and up to £40,000 in equity-free grant funding.
 
 ### Energy and Resources
 
@@ -116,9 +117,21 @@ __Projects and organizations for sustainable business development. Note that the
 * [WCS Climate Adaptation Fund](https://www.wcsclimateadaptationfund.org/) - Our grant partners implement ground breaking, science based projects, using traditional and new conservation tools applied in strategic ways to help wildlife and ecosystems adapt to a range of climate impacts.
 * [Adaptation Fund](https://www.adaptation-fund.org/) - Helping developing countries build resilience and adapt to climate change.
 * [ClimateWorks](https://www.climateworks.org/) - A global platform for philanthropy to innovate and accelerate climate solutions that scale.
-* [GEEREF](https://geeref.com/) - An innovative Fund-of-Funds catalysing private sector capital into clean energy projects in developing countries and economies in transition.
 * [Climate Grants](https://www.climategrants.earth/) - Climate Grants gives $1000 each month to people working on solving climate change, no strings attached.
-
+* [Ajax Strategies](https://www.ajaxinvestmentstrategies.com/) - Investing in next generation technologies to solve climate change.
+* [The Environmental Technologies Fund](https://etfpartners.capital/) - Investing in and helping great young European companies that deliver sustainability through innovation.
+* [MCJ Collective](https://www.myclimatejourney.co/mcj-collective) - My Climate Journey's early-stage climate tech fund, using AngelList's new rolling fund structure.
+* [Princeville Climate Technology](https://www.princeville-capital.com/princeville-climate) - Investing in leading growth stage companies that leverage mega-trends in technology and deploy innovative business models to drive a positive climate impact.
+* [Valo Ventures](https://valoventures.org/) - Looking for mission-driven entrepreneurs who believe that purpose and profit go together naturally.
+* [Wi Venture](https://wiventure.de/) - With a vision making our energy supply, mobility and agriculture sustainable.
+* [Wireframe Ventures](https://www.wireframevc.com/) - Investing in technology for people and planet.
+* [HG Ventures](https://hgventures.com/) - Investing in early stage and growth stage companies developing advanced materials and systems for transportation infrastructure, environmental services and specialty chemicals.
+* [Linse Capital](https://www.linsecapital.com/) - A US-based growth equity firm investing in cutting edge technology companies in the transportation, energy, and logistics industries.
+* [Material Impact](https://materialimpact.com/) - Seeking out novel materials to grow them into great products and enduring companies that solve real-world problems.
+* [VoLo Earth](https://www.voloearth.com/) - Addressing our planet's climate crisis at its roots by providing first-in funding and hands-on leadership to early-stage climate tech companies.
+* [Wind Ventures](https://www.windventures.vc/) - The newly established corporate venture capital arm of COPEC whose purpose is to accelerate global startups, and boost their growth in the United States and Latin America.
+* [The Climate Fund Inventory](https://www.oecd.org/environment/cc/database-climate-fund-inventory.htm) - A qualitative database of bilateral and multilateral public climate funds. 
+* [Climate Innovation Fund](https://www.microsoft.com/en-us/corporate-responsibility/sustainability/climate-innovation-fund) - We are investing $1 billion over the next four years in new technologies and innovative sustainability solutions.
 
 ### Food and Agriculture
 * [Acre Venture Partners](http://acre.vc/) - A venture capital fund investing in the future of food.
@@ -126,9 +139,12 @@ __Projects and organizations for sustainable business development. Note that the
 * [Astanor](https://astanor.com/) - Investing to give rise to a future of food that is nourishing, regenerative, scalable, trusted and delicious.
 * [Congruent Ventures](https://congruentvc.com/) - Creating the companies that will positively impact how we move, create, eat, and live.
 * [Cultivian Sandbox](https://cultiviansbx.com/) - Investing in innovative food and agriculture technology companies.
+* [Pontifax Agtech](https://www.pontifaxagtech.com/) - Investing globally in growing businesses that improve agricultural productivity, nutrition, health, sustainability and supply chain efficiency.
+* [Unovis](https://www.unovis.vc/) - Investing in successful entrepreneurs driving innovation throughout the food system.
+* [S2G Ventures](https://www.s2gventures.com/) - Focusing on companies that harness the power of food innovation to create better outcomes for people and the planet.
 
 ### Energy and Resources
-* [EIT InnoEnergy](https://www.innoenergy.com/) - Supporting sustainable energy innovations which provide industry with risk free, pioneering new technologies that reduce energy costs, increase system performance, decrease greenhouse gas (GHG) emissions, create jobs, and increase competitiveness.
+* [EIT InnoEnergy](https://www.innoenergy.com/) - Supporting sustainable energy innovations which provide industry with risk free, pioneering new technologies that reduce energy costs, increase system performance, decrease greenhouse gas emissions, create jobs, and increase competitiveness.
 * [Blue Bear Capital](https://bluebearcap.com/) - Investing in companies that accelerate the development of a profitable and sustainable energy future.
 * [Braemar Energy Ventures](http://www.braemarenergy.com/) - Making early, ahead-of-the-curve bets in transformative energy-tech and related companies which contribute to global sustainability and help combat climate change.
 * [Clean Energy Ventures](https://cleanenergyventures.com/) - Investing in companies commercializing disruptive advanced energy technologies and business model innovations.
@@ -141,14 +157,21 @@ __Projects and organizations for sustainable business development. Note that the
 * [Chrysalix Venture Capital](https://chrysalix.com/) - Investing in intelligent systems, energy technology and resource productivity solutions to deliver outsized financial returns and environmental sustainability.
 * [Mazarine Ventures](https://www.mazarineventures.com/) - Backing early-stage innovations that address water and wastewater risk.
 * [Closed Loop Partners](https://www.closedlooppartners.com/) - A New York based investment firm that provides equity and project finance to scale products, services and infrastructure at the forefront of the development of the circular economy.
+* [Energy Impact Partners](https://www.energyimpactpartners.com/) - Investing in companies driving a cleaner, better energy future.
+* [Enertech Capital](https://www.enertechcapital.com/) - Investing and partnering with innovative companies driving change across the energy landscape.
+* [Evergy Ventures](https://evergyventures.com/) - Formerly known as GXP Investments, focused on exploring unique opportunities that are aligned with Evergy's core mission to foster energy that moves us forward.
+* [GEEREF](https://geeref.com/) - An innovative Fund-of-Funds catalysing private sector capital into clean energy projects in developing countries and economies in transition.
+* [Evok Innovations](https://www.evokinnovations.com/) - Fueling industrial innovation.
+* [PIVA](http://www.piva.vc/) - A San Francisco-based VC firm investing in visionary entrepreneurs who are solving the world's critical problems in the industrial and energy spaces.
+* [Powerhouse Ventures](https://www.powerhouse.fund/ventures) - Investing in seed-stage startups that are changing the way we power our world.
 
 ### Urban Living
 * [Building Ventures](https://buildingventures.com/) - Investing in companies that are reshaping the way we design, build, operate and experience our built environment.
-* [Fifth Wall](https://fifthwall.com/) - A first-of-its-kind model aimed to accelerate innovation and create value for the entire Built World ecosystem.
+* [Fifth Wall](https://fifthwall.com/) - A first-of-its-kind model aimed to accelerate innovation and create value for the entire built world ecosystem.
 * [Trucks VC](https://www.trucks.vc/) - Funds the entrepreneurs building the future of transportation.
 * [Urban Us](https://urban.us/) - Fund startups that upgrade cities for climate change.
 
-### Open Source 
+### Open Source
 * [Shuttleworth Foundation](https://shuttleworthfoundation.org/) - An experiment in open philanthropy and uses alternative funding methodologies and collaborative ways of working to ensure that every fellow receives the necessary support to succeed.
 * [Global Sustainability Coalition for Open Science Services](https://scoss.org/need-funding-for-open-infra/) - The purpose is to help identify non-commercial services essential to Open Science, and to make qualified recommendations on which of these services should be considered for funding support.
 * [prototypefund](https://prototypefund.de/en/) - We fund Public Interest Tech.
@@ -158,13 +181,3 @@ __Projects and organizations for sustainable business development. Note that the
 * [Alfred P. Sloan Foundation](https://sloan.org/programs/digital-technology) - The Foundation awards approximately 200 grants per year totaling roughly 80 million USD in annual commitments in support of research and education in science, technology, engineering, mathematics, and economics.
 * [Runa](https://runacap.com/ross-index/) - Actively invests in Open Source startups and considers an active developer community to be instrumental for open-source businesses.
 * [Lemonade Stand](https://github.com/nayafia/lemonade-stand) - This document aims to provide an exhaustive list of all the ways that people get paid for open source work.
-
-
-## Open Business Models
-* [Open Source: From Community to Commercialization](https://a16z.com/2019/10/04/commercializing-open-source/) - Peter Levine has been working with open source as a developer, entrepreneur, and investor for more than thirty years. He gave a talk that drew on his own experiences as well as interviews with dozens of open source experts.
-* [Awesome Paid Open Source](https://github.com/mrjoelkemp/awesome-paid-open-source) - Collection of links around paid/sustainable open source development.
-* [Business models for open-source software](https://en.wikipedia.org/wiki/Business_models_for_open-source_software) - Companies whose business center on the development of open-source software employ a variety of business models to solve the challenge of how to make money providing software that is by definition licensed free of charge.
-* [Sustainable Free and Open Source Communities](https://sfosc.org/docs/business-models/) - An overview of the various open source business models, with examples of companies that use them.
-* [Open-core model](https://en.wikipedia.org/wiki/Open-core_model) - The open-core model is a business model for the monetization of commercially produced open-source software.
-* [COSS](https://docs.google.com/spreadsheets/d/17nKMpi_Dh5slCqzLSFBoWMxNvWiwt2R-t4e_l7LPLhU/edit#gid=0) - Commercial open-source software company index.
-* [Roadmap: Open Source](https://www.bvp.com/atlas/roadmap-open-source) - After years of investing in open source software, we're releasing our thinking on what positions these companies as emerging technology giants.
